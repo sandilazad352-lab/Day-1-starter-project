@@ -1,0 +1,18 @@
+# Build outputs
+build/
+cmake-build-*/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE
+.vscode/.ropeproject
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
